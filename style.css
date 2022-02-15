@@ -16,7 +16,7 @@ h2 {
   font-size:54px;
   background-color:pink;
   border-style:solid;
-  
+
 }
 p {
   color:cyan;
@@ -25,4 +25,8 @@ p {
   background-color:red;
   border-style:solid;
 
+}
+
+img {
+  width:500px
 }
