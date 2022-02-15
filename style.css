@@ -1,8 +1,10 @@
 h1 {
   color:red;
   font-family:fantasy;
+  font-size:64px;
 }
 p {
   color:cyan;
-  font-family:"times new roman"
+  font-family:"times new roman";
+  font-size:32px;
 }
