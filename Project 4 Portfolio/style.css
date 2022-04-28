@@ -1,1 +1,30 @@
+body {
+  background-color:white;
+}
 
+h1,h3,h4,h5,h6,h7 {
+  color:blue;
+  font-family:fantasy;
+  font-size:64px;
+  background-color:gray;
+  border-style:solid;
+}
+h2 {
+  color:red;
+  font-style:fantasy;
+  font-size:54px;
+  background-color:black;
+  border-style:solid;
+}
+
+p {
+  color:blue;
+  font-family:"fantasy";
+  font-size:32px;
+  background-color:gray;
+  border-style:solid;
+}
+
+img {
+  width:500px
+}
